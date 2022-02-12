@@ -1,4 +1,4 @@
-# Welcome to the Archive Box (a.k.a the Textbox Registry)
+# Welcome to the Archive Box (a.k.a the Texturebox Registry)
 
 This is where all textures in the Library Box are stored. With that you can contribute to them too!
 
