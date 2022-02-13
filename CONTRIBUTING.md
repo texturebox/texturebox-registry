@@ -13,6 +13,4 @@
 
 2. You MUST include a license if you took the texture from a open source texture provider.
 
-3. When creating files make sure the texture follows this path: textures/{providerName}
-
-4. Send a pull request.
+3. Send a pull request.
