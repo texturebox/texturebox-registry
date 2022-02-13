@@ -1,10 +1,4 @@
-# Welcome to the Archive Box (a.k.a the Texturebox Registry)
-
-This is where all textures in the Library Box are stored. With that you can contribute to them too!
-
-Just open a pull request on this repository.
-
-Okay, now there are some rules to get your texture approved and to have a pull request made.
+# Rules to contributing
 
 1. You MUST follow the format which is listed below.
 
