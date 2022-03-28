@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](banner.jpg)
 
 # Welcome to the Archive Box (a.k.a the Texturebox Registry)
 
